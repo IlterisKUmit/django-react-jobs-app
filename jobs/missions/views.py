@@ -4,7 +4,7 @@ from .serializers import MissionsSerializer
 from .models import Missions
 
 
-# Create your views here.
+# Create your views here....
 class MissionsView(viewsets.ModelViewSet):
     serializer_class = MissionsSerializer
     queryset = Missions.objects.all()
