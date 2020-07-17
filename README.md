@@ -1,0 +1,1 @@
+A case study task to create a task based todo app with Django web framework, Django REST Framework, react and python.
